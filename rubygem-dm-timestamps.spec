@@ -4,7 +4,7 @@
 #
 Name     : rubygem-dm-timestamps
 Version  : 1.2.0
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/dm-timestamps-1.2.0.gem
 Source0  : https://rubygems.org/downloads/dm-timestamps-1.2.0.gem
 Summary  : No detailed summary available
